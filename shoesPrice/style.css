@@ -1,0 +1,13 @@
+.input  {
+  margin-bottom: 8px;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+
+.btn {
+  margin-bottom: 8px;
+}
